@@ -293,6 +293,10 @@ body {
     min-height: 80px;
 }
 
+.container .h-contact .item a {
+    color: inherit;
+}
+
 .container .h-contact .item h2 {
     font-weight: bold;
     font-size: 18px;
